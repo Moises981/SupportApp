@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap>
+    <entry>
+        <key>main_message</key>
+        <value>BIENVENIDO A JESCAS \\n REGISTRESE Y ESPERE SU TURNO \\n GRACIAS.</value>
+    </entry>
+
+    <entry>
+        <key>show_name</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>color_primary</key>
+        <value>#0099CC</value>
+    </entry>
+
+    <entry>
+        <key>color_text_msg</key>
+        <value>#33B5E5</value>
+    </entry>
+
+    <entry>
+        <key>color_btn</key>
+        <value>#FF4081</value>
+    </entry>
+</defaultMap>

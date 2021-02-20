@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_form">28sp</dimen>
+    <dimen name="padding_vertical">16dp</dimen>
+    <dimen name="padding_horizontal">240dp</dimen>
+</resources>
